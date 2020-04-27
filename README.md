@@ -210,13 +210,31 @@ This means from now on you'll be committing and pushing code to your new React f
 # Week 1 Immersion
 
 ### Day Five
+[Version Control](https://docs.google.com/presentation/d/1aVUttI14G-mYgJub93a0rHB8U4Hp1PVLsP-Z29xfdFQ/edit?_hsenc=p2ANqtz-_AvsIEItthWbFbe2sbmEf0s8eSQuOcn1RpTN1o2-XSJh1oig173BqRmf02Ntrtoqvwn6yRX-AO3YjE5jACGuu_OdoSXA&_hsmi=79797779#slide=id.p)
 
+[Agile Processes](https://docs.google.com/presentation/d/1dV-CxDBi8d5y918E_ntdrguC99fDx2Sela_payxhaKw/edit?_hsenc=p2ANqtz-_AvsIEItthWbFbe2sbmEf0s8eSQuOcn1RpTN1o2-XSJh1oig173BqRmf02Ntrtoqvwn6yRX-AO3YjE5jACGuu_OdoSXA&_hsmi=79797779#slide=id.p)
 ### Day Four
+[Testing and Test Driven Development](https://docs.google.com/presentation/d/1bpQIyeUSuAg7WzpeMs_Kz-vojxn_-kFqxAHquqeMAwU/edit?_hsenc=p2ANqtz-8K1H-BxXTWaFPD30qSSboyg-MFAgJ_IC-y5Fus88-AARxPm2-adf1jxgYrgQ2-Pf26IPUgUg7rFq2uFopKPfrgX_LOhA&_hsmi=79737034#slide=id.p)
+
+[Programming Fundamentals 003](https://docs.google.com/presentation/d/1_nmXHcCOLowP76HgxMFS89iG7jvDmJl549YFPAuKc6s/edit?_hsenc=p2ANqtz-8K1H-BxXTWaFPD30qSSboyg-MFAgJ_IC-y5Fus88-AARxPm2-adf1jxgYrgQ2-Pf26IPUgUg7rFq2uFopKPfrgX_LOhA&_hsmi=79737034#slide=id.p)
+
+[GitHub Repo for Exercises](https://github.com/techreturners/programming_fundamentals_003?utm_source=hs_email&utm_medium=email&utm_content=79737034&_hsenc=p2ANqtz-8K1H-BxXTWaFPD30qSSboyg-MFAgJ_IC-y5Fus88-AARxPm2-adf1jxgYrgQ2-Pf26IPUgUg7rFq2uFopKPfrgX_LOhA&_hsmi=79737034)
 
 ### Day Three
+[Problem Solving](https://docs.google.com/presentation/d/1AsBB0Qb_nlNH9cks8Wv-BXsnD_lp8WMvNchZQJzgyrU/edit?_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113#slide=id.p)
+
+[Programming Fundamentals 002](https://docs.google.com/presentation/d/1lsi6fvtp2VqsIR-BP-ARDluL05AtY_pTvsPKEYTf2Zs/edit?_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113#slide=id.p)
+
+[GitHub Repo for Exercises](https://github.com/techreturners/programming_fundamentals_002?utm_source=hs_email&utm_medium=email&utm_content=79693113&_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113)
 
 ### Day Two
-[](https://)
+[Pair Programming](https://docs.google.com/presentation/d/1-laccrJcBlI1d6vxQRhzQ0bbjyroCUBMbM9Xfk5RaD4/edit?_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743#slide=id.p)
+
+[Programming Fundamentals 001](https://docs.google.com/presentation/d/1ygtuEJGpaTYjdOAbgdtvxMUg2EI8PERVc21LCsCfWck/edit?_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743#slide=id.p)
+
+[GitHub Repo for Exercises](https://github.com/techreturners/programming_fundamentals_001?utm_source=hs_email&utm_medium=email&utm_content=79608743&_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743)
+
+
 ### Day One
 [Intro slides](https://docs.google.com/presentation/d/1a83az4lnRDijeI_ZVilA-18Znb8zDxapZZ6Kmh5gGE8/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
 
