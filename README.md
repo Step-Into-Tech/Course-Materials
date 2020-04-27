@@ -208,3 +208,24 @@ This means from now on you'll be committing and pushing code to your new React f
 # Week 2 HTML(Hyper Text Markup Language)
 
 # Week 1 Immersion
+
+### Day Five
+
+### Day Four
+
+### Day Three
+
+### Day Two
+[](https://)
+### Day One
+[Intro slides](https://docs.google.com/presentation/d/1a83az4lnRDijeI_ZVilA-18Znb8zDxapZZ6Kmh5gGE8/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
+
+[Tech Industry](https://docs.google.com/presentation/d/1cbwa6twuJoxXyYwC-gZnkXUipcZbBREgQCxTWnkHvvQ/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
+
+[Command line introduction](https://docs.google.com/presentation/d/19eE_N5hnw-6BQv2dJvnZC1xYoG25YbF-DuU_42ThSZ0/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.g4801ef51f5_0_0)
+
+[Personal development](https://docs.google.com/presentation/d/1LQEn-T8A-lX3iuRHJs3bsADGlq8Q1onDiBuboRbAlDA/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
+
+**Homework Week 1**
+
+- [ ] Your personal development journey (as seen in slides)
