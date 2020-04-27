@@ -1,15 +1,13 @@
 # BBC-Step-Into-Tech
-Repo to put all resources in one spot. I have pulled this README.md from GitHub
 
-Just for putting in all our resources (not in any order yet)
-# Week 13 Project week
+## Week 13 Project week
 CV / Interview prep
 
 Code Reading Exercises
 
-# Week 12 Recap Support
+## Week 12 Recap Support
 
-# Week 11 Serverless
+## Week 11 Serverless
 Asynchronous code and JavaScript promises
 
 [Week 11 Lecture](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-011_understanding_promises.mp4?utm_source=hs_email&utm_medium=email&utm_content=83348187&_hsenc=p2ANqtz-8oCEYy_SWA_IBDFbW447W05A3NxZIzRfWRp8AlK3S-wy2z9jEiNQpPHOK3C2Kcp4CI0HQOOdph3H2pXoSEz8mt47w6ig&_hsmi=83348187)
@@ -66,7 +64,7 @@ It is 35 mins long and includes realtime googling as I try to work out how to so
 
 *NOTE: The last two items have NOT been covered in videos or lessons so you will need to work those out.*
 
-# Week 10 Serverless
+## Week 10 Serverless
 [Week 10 Lecture](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-010_serverless_codealong.mp4?utm_source=hs_email&utm_medium=email&utm_content=82840896&_hsenc=p2ANqtz-_StKjdD5Nyfn81iyR51tSK_VpIr44l45EVsxeh_9xj7ngtdVdOvzcamxBGYyhzKoVQbXw7-m_fD1OF67uq_O423RA8wg&_hsmi=82840896)
 
 [Performing a database dump](https://techreturners.github.io/databases/001_introduction/#performing-a-database-dum)
@@ -80,7 +78,7 @@ Connecting your serverless backend to the database.
 - [ ] Update the serverless function we created to respond with an array of tasks. Let me know once completed and I'll share further steps.
 - [ ] Watch the videos (when published) on introducing the MySQL library and connecting to your database from the API.
 
-# Week 9 Serverless
+## Week 9 Serverless
 An introduction to architectures and serverless.
 
 [Lecture Slides - Serverless Intro](https://docs.google.com/presentation/d/1WwP2N4a0T46IasfTnmEWzn4iR7tCw04veVcRcBB7v8c/edit?_hsenc=p2ANqtz-8SXhj6aImnsTgO6D43FAMUVe07Ya0AKQGZQ3pZCEA_GfSxLjy5vLqK46AeFuL06mIQit4YLuN4AYUHhXW5MCbajBm86A&_hsmi=82688013#slide=id.p)
@@ -115,17 +113,41 @@ Again, using the serverless function but this time to deploy to AWS
 Testing your API with Postman, updating code and re-deploying
 
 ### Homework Week 9
-- [ ] Follow through the webinar series. 
+- [ ] Follow through the webinar series.
 
 - [ ] After you have finished the final video, update your endpoint to response with a JSON object of your choice.
 
 The final video also covers your homework.
 
-# Week 8 Databases
-Webinar for creating a database https://storage.googleapis.com/tech-returners-course/rds_erd_and_sql.mp4
-# Week 7 Intro to Cloud(Amazon Web Services - AWS)
+## Week 8 Databases
+[Lecture Slides - Databases](https://docs.google.com/presentation/d/1SGxazA2bFFVE_enMkp0NiNhcmVKS6IxsU29firxhTK4/edit?_hsenc=p2ANqtz--SlS1jbQyuClVSm_sXPf5OZmGk_uYFprlv0QuWmEy5VeuWv7gPmVqX8lwWgkL5sibpfrvUOB2YkefUTAOdWMm6CmbQ2g&_hsmi=82373720#slide=id.p)
 
-# Week 6 React Props and State
+[Audio Recording of BBC Talk](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-008-bbc-process-talk-sam-hill.mp4?utm_source=hs_email&utm_medium=email&utm_content=82373720&_hsenc=p2ANqtz--SlS1jbQyuClVSm_sXPf5OZmGk_uYFprlv0QuWmEy5VeuWv7gPmVqX8lwWgkL5sibpfrvUOB2YkefUTAOdWMm6CmbQ2g&_hsmi=82373720)
+
+[Video Recording of Lecture](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-008-database-lecture.mp4?utm_source=hs_email&utm_medium=email&utm_content=82373720&_hsenc=p2ANqtz--SlS1jbQyuClVSm_sXPf5OZmGk_uYFprlv0QuWmEy5VeuWv7gPmVqX8lwWgkL5sibpfrvUOB2YkefUTAOdWMm6CmbQ2g&_hsmi=82373720)
+
+[Webinar for creating a database](https://storage.googleapis.com/tech-returners-course/rds_erd_and_sql.mp4)
+
+### Homework Week 8
+- [ ] Complete your React applications (add tasks, delete tasks, update tasks)
+
+- [ ] Watch each of the database videos (to be sent over shortly)
+
+- [ ] Create your own tasks database 
+
+## Week 7 Intro to Cloud(Amazon Web Services - AWS)
+[Lecture Slides - Intro to Cloud](https://docs.google.com/presentation/d/1L5Bh1Er3ubFrkKzszK69DaVHHPHU_iDszQAaRCmuZHc/edit?_hsenc=p2ANqtz-8KiD_1MBExIjq3yRN2Y3Dw6-nwD47wT9AetVndk6SdLKJZAq8sy0_rZ2Wl010btLebmfI0eQ8Nhh7cmysB0uFjV0oTmg&_hsmi=82068579#slide=id.p)
+
+[Video Recording of Lecture](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-007_intro_to_cloud_lecture.mp4?utm_source=hs_email&utm_medium=email&utm_content=82068579&_hsenc=p2ANqtz-8KiD_1MBExIjq3yRN2Y3Dw6-nwD47wT9AetVndk6SdLKJZAq8sy0_rZ2Wl010btLebmfI0eQ8Nhh7cmysB0uFjV0oTmg&_hsmi=82068579)
+
+### Homework Week 7
+- [ ] Watch the next react webinars on add and edit tasks
+
+- [ ] Apply the concepts shown in the mini-series to your own React application
+
+At a minimum your app should allow you to add tasks, delete tasks and mark them as completed. (All of this will be shown in the mini-series coming shortly)
+
+## Week 6 React Props and State
 React Advanced
 
 [Lecture Slides - Props, States and Events](https://docs.google.com/presentation/d/1C5BW5nmKbWaEyMnkVJUQCzG30DgKMaW6GQO_gt__xUw/)
@@ -173,7 +195,7 @@ At a minimum your app should allow you to add tasks, delete tasks and mark them 
 
 
 
-# Week 5 React Intro
+## Week 5 React Intro
 Introduction to React
 
 [Lecture Slides - React Intro](https://docs.google.com/presentation/d/1C5BW5nmKbWaEyMnkVJUQCzG30DgKMaW6GQO_gt__xUw/edit#slide=id.p)
@@ -199,7 +221,7 @@ It should be split into multiple components so utilising your drawings to unders
 This means from now on you'll be committing and pushing code to your new React frontend repository.
 
 
-# Week 4 Responsive Design
+## Week 4 Responsive Design
 [Lecture Slides - Where are we up to](https://docs.google.com/presentation/d/1Uw9tAPhB5P54uTGpumWLDT7xo5c9FjyuSkDAZllbL14/edit?_hsenc=p2ANqtz--N0vOKhUQa6UN2Tlj5WOmiIUKsZCYH1y31WAWn3duPk8VNHzS0PI9sS4V3BFveYmnUXnH_-rENciZ50nFk-SfZQBW--w&_hsmi=80713359#slide=id.p)
 
 [Lecture Slides - Responsive Design](https://)
@@ -208,7 +230,7 @@ This means from now on you'll be committing and pushing code to your new React f
 
 It's also detailed further on the lecture notes so have a read of those and the corresponding resources.
 
-# Week 3 CSS(Cascading Style Sheets)
+## Week 3 CSS(Cascading Style Sheets)
 
 [Lecture Slides](https://docs.google.com/presentation/d/1qSN0nFN-Qhlkcowz9H1QT7w-6oZhVJ5MrQjB5a7gc7M/edit?_hsenc=p2ANqtz--_dFycZhEXq7aUh4nXrdFowQ7JYRke_IlR-qIzM6ygd0NvCpQLbHbZadcLuIK4Vxn26Lt3kRY_6f0mIOxgZsEvSAcfxw&_hsmi=80406514#slide=id.p)
 
@@ -216,7 +238,7 @@ It's also detailed further on the lecture notes so have a read of those and the 
 
 Make use of different [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors) where possible and try different [CSS styling](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference) properties
 
-# Week 2 HTML(Hyper Text Markup Language)
+## Week 2 HTML(Hyper Text Markup Language)
 
 [Lecture Slides](https://docs.google.com/presentation/d/1R_u53AzXzpVBoCopifvF85TMyZ3WhH2QWVYozacYB7s/edit?_hsenc=p2ANqtz-9WVC6m4M0e7-d5bIF0DZVXRchVJVB5sNm5473YGX7XAbyrx9tuIYB9RtW4Z0qvM6L_9UYu1ZQN2bZ4B7K-o-txbJJR2g&_hsmi=80081905#slide=id.p)
 
@@ -238,27 +260,27 @@ The homework tasks are also discussed during the end of the lecture video.
 
 [Loops](https://zellwk.com/blog/js-for-loops/?utm_source=hs_email&utm_medium=email&utm_content=80081905&_hsenc=p2ANqtz-9WVC6m4M0e7-d5bIF0DZVXRchVJVB5sNm5473YGX7XAbyrx9tuIYB9RtW4Z0qvM6L_9UYu1ZQN2bZ4B7K-o-txbJJR2g&_hsmi=80081905) reference from lecture
 
-# Week 1 Immersion
+## Week 1 Immersion
 
-### Day Five
+#### Day Five
 [Version Control](https://docs.google.com/presentation/d/1aVUttI14G-mYgJub93a0rHB8U4Hp1PVLsP-Z29xfdFQ/edit?_hsenc=p2ANqtz-_AvsIEItthWbFbe2sbmEf0s8eSQuOcn1RpTN1o2-XSJh1oig173BqRmf02Ntrtoqvwn6yRX-AO3YjE5jACGuu_OdoSXA&_hsmi=79797779#slide=id.p)
 
 [Agile Processes](https://docs.google.com/presentation/d/1dV-CxDBi8d5y918E_ntdrguC99fDx2Sela_payxhaKw/edit?_hsenc=p2ANqtz-_AvsIEItthWbFbe2sbmEf0s8eSQuOcn1RpTN1o2-XSJh1oig173BqRmf02Ntrtoqvwn6yRX-AO3YjE5jACGuu_OdoSXA&_hsmi=79797779#slide=id.p)
-### Day Four
+#### Day Four
 [Testing and Test Driven Development](https://docs.google.com/presentation/d/1bpQIyeUSuAg7WzpeMs_Kz-vojxn_-kFqxAHquqeMAwU/edit?_hsenc=p2ANqtz-8K1H-BxXTWaFPD30qSSboyg-MFAgJ_IC-y5Fus88-AARxPm2-adf1jxgYrgQ2-Pf26IPUgUg7rFq2uFopKPfrgX_LOhA&_hsmi=79737034#slide=id.p)
 
 [Programming Fundamentals 003](https://docs.google.com/presentation/d/1_nmXHcCOLowP76HgxMFS89iG7jvDmJl549YFPAuKc6s/edit?_hsenc=p2ANqtz-8K1H-BxXTWaFPD30qSSboyg-MFAgJ_IC-y5Fus88-AARxPm2-adf1jxgYrgQ2-Pf26IPUgUg7rFq2uFopKPfrgX_LOhA&_hsmi=79737034#slide=id.p)
 
 [GitHub Repo for Exercises](https://github.com/techreturners/programming_fundamentals_003?utm_source=hs_email&utm_medium=email&utm_content=79737034&_hsenc=p2ANqtz-8K1H-BxXTWaFPD30qSSboyg-MFAgJ_IC-y5Fus88-AARxPm2-adf1jxgYrgQ2-Pf26IPUgUg7rFq2uFopKPfrgX_LOhA&_hsmi=79737034)
 
-### Day Three
+#### Day Three
 [Problem Solving](https://docs.google.com/presentation/d/1AsBB0Qb_nlNH9cks8Wv-BXsnD_lp8WMvNchZQJzgyrU/edit?_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113#slide=id.p)
 
 [Programming Fundamentals 002](https://docs.google.com/presentation/d/1lsi6fvtp2VqsIR-BP-ARDluL05AtY_pTvsPKEYTf2Zs/edit?_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113#slide=id.p)
 
 [GitHub Repo for Exercises](https://github.com/techreturners/programming_fundamentals_002?utm_source=hs_email&utm_medium=email&utm_content=79693113&_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113)
 
-### Day Two
+#### Day Two
 [Pair Programming](https://docs.google.com/presentation/d/1-laccrJcBlI1d6vxQRhzQ0bbjyroCUBMbM9Xfk5RaD4/edit?_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743#slide=id.p)
 
 [Programming Fundamentals 001](https://docs.google.com/presentation/d/1ygtuEJGpaTYjdOAbgdtvxMUg2EI8PERVc21LCsCfWck/edit?_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743#slide=id.p)
@@ -266,7 +288,7 @@ The homework tasks are also discussed during the end of the lecture video.
 [GitHub Repo for Exercises](https://github.com/techreturners/programming_fundamentals_001?utm_source=hs_email&utm_medium=email&utm_content=79608743&_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743)
 
 
-### Day One
+#### Day One
 [Intro slides](https://docs.google.com/presentation/d/1a83az4lnRDijeI_ZVilA-18Znb8zDxapZZ6Kmh5gGE8/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
 
 [Tech Industry](https://docs.google.com/presentation/d/1cbwa6twuJoxXyYwC-gZnkXUipcZbBREgQCxTWnkHvvQ/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
