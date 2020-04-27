@@ -200,12 +200,43 @@ This means from now on you'll be committing and pushing code to your new React f
 
 
 # Week 4 Responsive Design
+[Lecture Slides - Where are we up to](https://docs.google.com/presentation/d/1Uw9tAPhB5P54uTGpumWLDT7xo5c9FjyuSkDAZllbL14/edit?_hsenc=p2ANqtz--N0vOKhUQa6UN2Tlj5WOmiIUKsZCYH1y31WAWn3duPk8VNHzS0PI9sS4V3BFveYmnUXnH_-rENciZ50nFk-SfZQBW--w&_hsmi=80713359#slide=id.p)
 
+[Lecture Slides - Responsive Design](https://)
 
+- [ ] The homework this week is to convert your HTML page to be responsive by utilising Bootstrap Grids.
+
+It's also detailed further on the lecture notes so have a read of those and the corresponding resources.
 
 # Week 3 CSS(Cascading Style Sheets)
 
+[Lecture Slides](https://docs.google.com/presentation/d/1qSN0nFN-Qhlkcowz9H1QT7w-6oZhVJ5MrQjB5a7gc7M/edit?_hsenc=p2ANqtz--_dFycZhEXq7aUh4nXrdFowQ7JYRke_IlR-qIzM6ygd0NvCpQLbHbZadcLuIK4Vxn26Lt3kRY_6f0mIOxgZsEvSAcfxw&_hsmi=80406514#slide=id.p)
+
+- [ ] The homework this week is start applying styling to your website.
+
+Make use of different [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors) where possible and try different [CSS styling](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference) properties
+
 # Week 2 HTML(Hyper Text Markup Language)
+
+[Lecture Slides](https://docs.google.com/presentation/d/1R_u53AzXzpVBoCopifvF85TMyZ3WhH2QWVYozacYB7s/edit?_hsenc=p2ANqtz-9WVC6m4M0e7-d5bIF0DZVXRchVJVB5sNm5473YGX7XAbyrx9tuIYB9RtW4Z0qvM6L_9UYu1ZQN2bZ4B7K-o-txbJJR2g&_hsmi=80081905#slide=id.p)
+
+[Recording of Marc's talk](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-002-bbc-marc-littlemore.mp4?utm_source=hs_email&utm_medium=email&utm_content=80081905&_hsenc=p2ANqtz-9WVC6m4M0e7-d5bIF0DZVXRchVJVB5sNm5473YGX7XAbyrx9tuIYB9RtW4Z0qvM6L_9UYu1ZQN2bZ4B7K-o-txbJJR2g&_hsmi=80081905)
+
+[Recording of Lecture](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-002-html-and-web.mp4?utm_source=hs_email&utm_medium=email&utm_content=80081905&_hsenc=p2ANqtz-9WVC6m4M0e7-d5bIF0DZVXRchVJVB5sNm5473YGX7XAbyrx9tuIYB9RtW4Z0qvM6L_9UYu1ZQN2bZ4B7K-o-txbJJR2g&_hsmi=80081905)
+
+[Rebecca's converting pseudocode into the Javascript solution](https://hackmd.io/0FQrlVSnQOGVLPr5Hl11TQ)
+
+**Homework Week 2**
+
+- [ ] The homework for this week can all be found on the [GitHub Repository](https://github.com/techreturners/week-002-html) 
+
+Remember to complete the [preparation tasks](https://github.com/techreturners/week-002-html/blob/master/docs/TASKS.md?utm_source=hs_email&utm_medium=email&utm_content=80081905&_hsenc=p2ANqtz-9WVC6m4M0e7-d5bIF0DZVXRchVJVB5sNm5473YGX7XAbyrx9tuIYB9RtW4Z0qvM6L_9UYu1ZQN2bZ4B7K-o-txbJJR2g&_hsmi=80081905#preparation-tasks) before working through the [coding tasks](https://github.com/techreturners/week-002-html/blob/master/docs/TASKS.md?utm_source=hs_email&utm_medium=email&utm_content=80081905&_hsenc=p2ANqtz-9WVC6m4M0e7-d5bIF0DZVXRchVJVB5sNm5473YGX7XAbyrx9tuIYB9RtW4Z0qvM6L_9UYu1ZQN2bZ4B7K-o-txbJJR2g&_hsmi=80081905#coding-tasks). 
+
+All homework should be submitted by pushing your code up to your own 'fork' of the repository above and remember to commit little and often.
+
+The homework tasks are also discussed during the end of the lecture video.
+
+[Loops](https://zellwk.com/blog/js-for-loops/?utm_source=hs_email&utm_medium=email&utm_content=80081905&_hsenc=p2ANqtz-9WVC6m4M0e7-d5bIF0DZVXRchVJVB5sNm5473YGX7XAbyrx9tuIYB9RtW4Z0qvM6L_9UYu1ZQN2bZ4B7K-o-txbJJR2g&_hsmi=80081905) reference from lecture
 
 # Week 1 Immersion
 
