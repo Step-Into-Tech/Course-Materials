@@ -1,4 +1,4 @@
-# BBC-Step-Into-Tech
+# BBC Step Into Tech
 
 ## Week 13 Project week
 CV / Interview prep
@@ -276,14 +276,30 @@ The homework tasks are also discussed during the end of the lecture video.
 #### Day Three
 [Problem Solving](https://docs.google.com/presentation/d/1AsBB0Qb_nlNH9cks8Wv-BXsnD_lp8WMvNchZQJzgyrU/edit?_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113#slide=id.p)
 
+##### References
+* [](https://)
+* [](https://)
+* [](https://)
+
 [Programming Fundamentals 002](https://docs.google.com/presentation/d/1lsi6fvtp2VqsIR-BP-ARDluL05AtY_pTvsPKEYTf2Zs/edit?_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113#slide=id.p)
 
 [GitHub Repo for Exercises](https://github.com/techreturners/programming_fundamentals_002?utm_source=hs_email&utm_medium=email&utm_content=79693113&_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113)
 
 #### Day Two
 [Pair Programming](https://docs.google.com/presentation/d/1-laccrJcBlI1d6vxQRhzQ0bbjyroCUBMbM9Xfk5RaD4/edit?_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743#slide=id.p)
+##### References
+* [Atlassian - Try Pair Programming](https://developer.atlassian.com/blog/2015/05/try-pair-programming/)
+* [Pair Programming Styles
+](https://stackify.com/pair-programming-styles/)
+* [Martin Fowler - Pair Programming Misconceptions
+](https://martinfowler.com/bliki/PairProgrammingMisconceptions.html)
+
 
 [Programming Fundamentals 001](https://docs.google.com/presentation/d/1ygtuEJGpaTYjdOAbgdtvxMUg2EI8PERVc21LCsCfWck/edit?_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743#slide=id.p)
+##### References
+* [Javascript Reserved Keywords](https://www.w3schools.com/js/js_reserved.asp)
+* [Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
+* [Operators](https://www.w3schools.com/jsref/jsref_operators.asp)
 
 [GitHub Repo for Exercises](https://github.com/techreturners/programming_fundamentals_001?utm_source=hs_email&utm_medium=email&utm_content=79608743&_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743)
 
@@ -292,10 +308,22 @@ The homework tasks are also discussed during the end of the lecture video.
 [Intro slides](https://docs.google.com/presentation/d/1a83az4lnRDijeI_ZVilA-18Znb8zDxapZZ6Kmh5gGE8/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
 
 [Tech Industry](https://docs.google.com/presentation/d/1cbwa6twuJoxXyYwC-gZnkXUipcZbBREgQCxTWnkHvvQ/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
+##### References
+* [Tech Nation Report 2019](https://technation.io/report2019/#introduction)
+* [Tech Nation Report - London 2019](https://technation.io/about-us/national-network/london/)
+* [Stackoverflow Insights](https://insights.stackoverflow.com/survey/2019)
 
 [Command line introduction](https://docs.google.com/presentation/d/19eE_N5hnw-6BQv2dJvnZC1xYoG25YbF-DuU_42ThSZ0/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.g4801ef51f5_0_0)
 
+##### References
+* [Windows Package Manager - Chocolatey](https://chocolatey.org/)
+* [HomeBrew](https://brew.sh/)
+* [Unix command cheat sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+
 [Personal development](https://docs.google.com/presentation/d/1LQEn-T8A-lX3iuRHJs3bsADGlq8Q1onDiBuboRbAlDA/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
+##### References     
+* [Growth Mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
+
 
 **Homework Week 1**
 
