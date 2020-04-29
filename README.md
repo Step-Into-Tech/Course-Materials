@@ -12,7 +12,7 @@ Asynchronous code and JavaScript promises
 
 [Week 11 Lecture](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-011_understanding_promises.mp4?utm_source=hs_email&utm_medium=email&utm_content=83348187&_hsenc=p2ANqtz-8oCEYy_SWA_IBDFbW447W05A3NxZIzRfWRp8AlK3S-wy2z9jEiNQpPHOK3C2Kcp4CI0HQOOdph3H2pXoSEz8mt47w6ig&_hsmi=83348187)
 
-[Week 11 Slides](https://docs.google.com/presentation/d/16TRfCL4ncl7J6F8ZhCTn8EsAad6X5d_h4d9TlzwAE7M/edit#slide=id.p)
+📖 [Lecture Slides](https://docs.google.com/presentation/d/16TRfCL4ncl7J6F8ZhCTn8EsAad6X5d_h4d9TlzwAE7M/edit#slide=id.p)
 ### Webinar Series Cont.
 This video outlines how to utilise [external configuration](https://12factor.net/config?utm_source=hs_email&utm_medium=email&utm_content=83501241&_hsenc=p2ANqtz--GJKmuEnQYeqUvmCG5zrD1phFsJkzpSXZTieMMOk6R0UaVCupi6tpalCjckBmTy86RDNCPJnHm9NUl5hdLdk88HrHUvA&_hsmi=83501241) in your backend API.
 It also shows solutions for last weeks homework.
@@ -65,7 +65,7 @@ It is 35 mins long and includes realtime googling as I try to work out how to so
 *NOTE: The last two items have NOT been covered in videos or lessons so you will need to work those out.*
 
 ## Week 10 Serverless
-[Week 10 Lecture](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-010_serverless_codealong.mp4?utm_source=hs_email&utm_medium=email&utm_content=82840896&_hsenc=p2ANqtz-_StKjdD5Nyfn81iyR51tSK_VpIr44l45EVsxeh_9xj7ngtdVdOvzcamxBGYyhzKoVQbXw7-m_fD1OF67uq_O423RA8wg&_hsmi=82840896)
+📖 [Lecture Slides](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-010_serverless_codealong.mp4?utm_source=hs_email&utm_medium=email&utm_content=82840896&_hsenc=p2ANqtz-_StKjdD5Nyfn81iyR51tSK_VpIr44l45EVsxeh_9xj7ngtdVdOvzcamxBGYyhzKoVQbXw7-m_fD1OF67uq_O423RA8wg&_hsmi=82840896)
 
 [Performing a database dump](https://techreturners.github.io/databases/001_introduction/#performing-a-database-dum)
 
@@ -81,7 +81,7 @@ Connecting your serverless backend to the database.
 ## Week 9 Serverless
 An introduction to architectures and serverless.
 
-[Lecture Slides - Serverless Intro](https://docs.google.com/presentation/d/1WwP2N4a0T46IasfTnmEWzn4iR7tCw04veVcRcBB7v8c/edit?_hsenc=p2ANqtz-8SXhj6aImnsTgO6D43FAMUVe07Ya0AKQGZQ3pZCEA_GfSxLjy5vLqK46AeFuL06mIQit4YLuN4AYUHhXW5MCbajBm86A&_hsmi=82688013#slide=id.p)
+📖 [Lecture Slides - Serverless Intro](https://docs.google.com/presentation/d/1WwP2N4a0T46IasfTnmEWzn4iR7tCw04veVcRcBB7v8c/edit?_hsenc=p2ANqtz-8SXhj6aImnsTgO6D43FAMUVe07Ya0AKQGZQ3pZCEA_GfSxLjy5vLqK46AeFuL06mIQit4YLuN4AYUHhXW5MCbajBm86A&_hsmi=82688013#slide=id.p)
 
 [Audio Recording of Beckie's Career Questions](https://h5.t.hubspotemail.net/e2t/c/*W52VSYP6lCW5lW79Zl82338Kvv0/*W2n2s6k7Qr_l8W2cJsVn6j_9gs0/5/f18dQhb0Sq5v8Y9_BbN7VlC8xHyjJqMQZkg6QsLMPW3hHh9c2P7_nXVcnTGj98PFJmW2yc5gN4vx1ZmN8x9jdNc2LtsW7nwMJH2HCC5RW7b_jB36R9vW5W96LwYN7lPF1sVdVhT24Xrp4DN6bN1pWcW15sW7mFZkL69_mb_W62TQBB5DQqWpW4v7GHv90G7thW8S23M92yJF1WVYT2jk6P4lCXW3Vpx8-7NrMZsW3ndm6j49WVtrN3VVg3wcKvN1W2x-ccw7d094fW6G7Fbl4DFfS3N6Q951BY0TRNW5Q9x211dXqxTW1J3gD85cFXR_W69wc9750mBmsW4MmH377dKpdFW6nqzdz3TGLkHW3gMX772hmBSnW3Mm5Dx621-2YW6Pf2w71mjgqlW62xGfH5klh2XVGhb_j7y18qfW2VkG265brc74W1VtfyQ3qRrzRVVR6H24q1GxRW7b5GpD2Mnb0jW8rTrcs5xn40GN6p1VxzcSK1ZW4r5l5j7x11rCW21-Z_f25F6yPW7Bz-vc9b8snLW6HdMBs7vtSD1W9l22MW1WPqF4MpV__1v4ymn111)
 
@@ -120,7 +120,7 @@ Testing your API with Postman, updating code and re-deploying
 The final video also covers your homework.
 
 ## Week 8 Databases
-[Lecture Slides - Databases](https://docs.google.com/presentation/d/1SGxazA2bFFVE_enMkp0NiNhcmVKS6IxsU29firxhTK4/edit?_hsenc=p2ANqtz--SlS1jbQyuClVSm_sXPf5OZmGk_uYFprlv0QuWmEy5VeuWv7gPmVqX8lwWgkL5sibpfrvUOB2YkefUTAOdWMm6CmbQ2g&_hsmi=82373720#slide=id.p)
+📖 [Lecture Slides - Databases](https://docs.google.com/presentation/d/1SGxazA2bFFVE_enMkp0NiNhcmVKS6IxsU29firxhTK4/edit?_hsenc=p2ANqtz--SlS1jbQyuClVSm_sXPf5OZmGk_uYFprlv0QuWmEy5VeuWv7gPmVqX8lwWgkL5sibpfrvUOB2YkefUTAOdWMm6CmbQ2g&_hsmi=82373720#slide=id.p)
 
 [Audio Recording of BBC Talk](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-008-bbc-process-talk-sam-hill.mp4?utm_source=hs_email&utm_medium=email&utm_content=82373720&_hsenc=p2ANqtz--SlS1jbQyuClVSm_sXPf5OZmGk_uYFprlv0QuWmEy5VeuWv7gPmVqX8lwWgkL5sibpfrvUOB2YkefUTAOdWMm6CmbQ2g&_hsmi=82373720)
 
@@ -136,7 +136,7 @@ The final video also covers your homework.
 - [ ] Create your own tasks database 
 
 ## Week 7 Intro to Cloud(Amazon Web Services - AWS)
-[Lecture Slides - Intro to Cloud](https://docs.google.com/presentation/d/1L5Bh1Er3ubFrkKzszK69DaVHHPHU_iDszQAaRCmuZHc/edit?_hsenc=p2ANqtz-8KiD_1MBExIjq3yRN2Y3Dw6-nwD47wT9AetVndk6SdLKJZAq8sy0_rZ2Wl010btLebmfI0eQ8Nhh7cmysB0uFjV0oTmg&_hsmi=82068579#slide=id.p)
+📖 [Lecture Slides - Intro to Cloud](https://docs.google.com/presentation/d/1L5Bh1Er3ubFrkKzszK69DaVHHPHU_iDszQAaRCmuZHc/edit?_hsenc=p2ANqtz-8KiD_1MBExIjq3yRN2Y3Dw6-nwD47wT9AetVndk6SdLKJZAq8sy0_rZ2Wl010btLebmfI0eQ8Nhh7cmysB0uFjV0oTmg&_hsmi=82068579#slide=id.p)
 
 [Video Recording of Lecture](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-007_intro_to_cloud_lecture.mp4?utm_source=hs_email&utm_medium=email&utm_content=82068579&_hsenc=p2ANqtz-8KiD_1MBExIjq3yRN2Y3Dw6-nwD47wT9AetVndk6SdLKJZAq8sy0_rZ2Wl010btLebmfI0eQ8Nhh7cmysB0uFjV0oTmg&_hsmi=82068579)
 
@@ -150,7 +150,7 @@ At a minimum your app should allow you to add tasks, delete tasks and mark them 
 ## Week 6 React Props and State
 React Advanced
 
-[Lecture Slides - Props, States and Events](https://docs.google.com/presentation/d/1C5BW5nmKbWaEyMnkVJUQCzG30DgKMaW6GQO_gt__xUw/)
+📖 [Lecture Slides - Props, States and Events](https://docs.google.com/presentation/d/1C5BW5nmKbWaEyMnkVJUQCzG30DgKMaW6GQO_gt__xUw/)
 
 [Video Recording of Lecture part 1](https://h5.t.hubspotemail.net/e2t/c/*W5kkLq93Cl2STN4FMz5NW6dzM0/*W13K9S03Bv2QxN6r4_K2R2fy-0/5/f18dQhb0S65P2dYTs8V126861f836HW1fpBZv1fQ5MsW31qLhP97WqZcN1dq95CHTF8kW5Lmg5j4m-1XmN5NGmY8m0zJRW1h2jNh4lrmRXW246ZCn79FnLmW3rJ_T84DM10LW7N-vsV1gPQVZW1RzrB71Q-jT2W5tQRKK5y3vpnW6cw8MX8Y2YffW7MnrtF3dpSTPW7N4DGV2qvcY8W1kl-hT8_2PB-VTn6GX4Yr5cYW7MbckX8vkH9vW1v2x5b3KP1FyVM1Hwg5G3ZssN3yKjxxDZjs6W1TCYcT19ftSyW57t6pC52dwv-M-T3SV-3GnkW2j84xb2yvs1xW1nksPw4M7MNDW7phnZD8kcFrBW7PPbkR3rc7YrW8CFkmc6WgHhjW7-N4LW2_TSz1W5zl9621nv8_gW7KXwR07YD7qxW6F0Wwg8-lYlJW7KTz6P6C26PgW4N7wQ96KxVH3W9cvb201sW3KlW6xx-DT4wxkZVW1YrmGF8jtGmyVBlqJn7rGb0CW5zbKC42Q2rJJW82zPdx6-5VnjN82mLxmTf2JhW8sRzNN9h47gwW9k8vXx5L2KL6W8Syjjq8LbnJ3102)
 
@@ -198,7 +198,7 @@ At a minimum your app should allow you to add tasks, delete tasks and mark them 
 ## Week 5 React Intro
 Introduction to React
 
-[Lecture Slides - React Intro](https://docs.google.com/presentation/d/1C5BW5nmKbWaEyMnkVJUQCzG30DgKMaW6GQO_gt__xUw/edit#slide=id.p)
+📖 [Lecture Slides - React Intro](https://docs.google.com/presentation/d/1C5BW5nmKbWaEyMnkVJUQCzG30DgKMaW6GQO_gt__xUw/edit#slide=id.p)
 
 [Video Recording of Lecture](https://drive.google.com/file/d/17e2HnNVgILgzJotToMSHGXyMWTCsZiJ2/view?_hsenc=p2ANqtz--CVK3nnNo0lHIaHXa3-KHMDllmtdxTMxC6bnz_I-d3Rj5whoFbOoa4kJtvaKsjVNpSE82HLGV9eGLD0Qo-xmDjfKXVJQ&_hsmi=81083674)
 
@@ -222,9 +222,9 @@ This means from now on you'll be committing and pushing code to your new React f
 
 
 ## Week 4 Responsive Design
-[Lecture Slides - Where are we up to](https://docs.google.com/presentation/d/1Uw9tAPhB5P54uTGpumWLDT7xo5c9FjyuSkDAZllbL14/edit?_hsenc=p2ANqtz--N0vOKhUQa6UN2Tlj5WOmiIUKsZCYH1y31WAWn3duPk8VNHzS0PI9sS4V3BFveYmnUXnH_-rENciZ50nFk-SfZQBW--w&_hsmi=80713359#slide=id.p)
+📖 [Lecture Slides - Where are we up to](https://docs.google.com/presentation/d/1Uw9tAPhB5P54uTGpumWLDT7xo5c9FjyuSkDAZllbL14/edit?_hsenc=p2ANqtz--N0vOKhUQa6UN2Tlj5WOmiIUKsZCYH1y31WAWn3duPk8VNHzS0PI9sS4V3BFveYmnUXnH_-rENciZ50nFk-SfZQBW--w&_hsmi=80713359#slide=id.p)
 
-[Lecture Slides - Responsive Design](https://)
+📖 [Lecture Slides - Responsive Design](https://)
 
 - [ ] The homework this week is to convert your HTML page to be responsive by utilising Bootstrap Grids.
 
@@ -232,7 +232,7 @@ It's also detailed further on the lecture notes so have a read of those and the 
 
 ## Week 3 CSS(Cascading Style Sheets)
 
-[Lecture Slides](https://docs.google.com/presentation/d/1qSN0nFN-Qhlkcowz9H1QT7w-6oZhVJ5MrQjB5a7gc7M/edit?_hsenc=p2ANqtz--_dFycZhEXq7aUh4nXrdFowQ7JYRke_IlR-qIzM6ygd0NvCpQLbHbZadcLuIK4Vxn26Lt3kRY_6f0mIOxgZsEvSAcfxw&_hsmi=80406514#slide=id.p)
+📖 [Lecture Slides](https://docs.google.com/presentation/d/1qSN0nFN-Qhlkcowz9H1QT7w-6oZhVJ5MrQjB5a7gc7M/edit?_hsenc=p2ANqtz--_dFycZhEXq7aUh4nXrdFowQ7JYRke_IlR-qIzM6ygd0NvCpQLbHbZadcLuIK4Vxn26Lt3kRY_6f0mIOxgZsEvSAcfxw&_hsmi=80406514#slide=id.p)
 
 - [ ] The homework this week is start applying styling to your website.
 
@@ -240,7 +240,7 @@ Make use of different [CSS selectors](https://developer.mozilla.org/en-US/docs/W
 
 ## Week 2 HTML(Hyper Text Markup Language)
 
-[Lecture Slides](https://docs.google.com/presentation/d/1R_u53AzXzpVBoCopifvF85TMyZ3WhH2QWVYozacYB7s/edit?_hsenc=p2ANqtz-9WVC6m4M0e7-d5bIF0DZVXRchVJVB5sNm5473YGX7XAbyrx9tuIYB9RtW4Z0qvM6L_9UYu1ZQN2bZ4B7K-o-txbJJR2g&_hsmi=80081905#slide=id.p)
+📖 [Lecture Slides](https://docs.google.com/presentation/d/1R_u53AzXzpVBoCopifvF85TMyZ3WhH2QWVYozacYB7s/edit?_hsenc=p2ANqtz-9WVC6m4M0e7-d5bIF0DZVXRchVJVB5sNm5473YGX7XAbyrx9tuIYB9RtW4Z0qvM6L_9UYu1ZQN2bZ4B7K-o-txbJJR2g&_hsmi=80081905#slide=id.p)
 
 [Recording of Marc's talk](https://storage.googleapis.com/bbc-step-into-tech/2019-11/week-002-bbc-marc-littlemore.mp4?utm_source=hs_email&utm_medium=email&utm_content=80081905&_hsenc=p2ANqtz-9WVC6m4M0e7-d5bIF0DZVXRchVJVB5sNm5473YGX7XAbyrx9tuIYB9RtW4Z0qvM6L_9UYu1ZQN2bZ4B7K-o-txbJJR2g&_hsmi=80081905)
 
@@ -263,31 +263,60 @@ The homework tasks are also discussed during the end of the lecture video.
 ## Week 1 Immersion
 
 #### Day Five
-[Version Control](https://docs.google.com/presentation/d/1aVUttI14G-mYgJub93a0rHB8U4Hp1PVLsP-Z29xfdFQ/edit?_hsenc=p2ANqtz-_AvsIEItthWbFbe2sbmEf0s8eSQuOcn1RpTN1o2-XSJh1oig173BqRmf02Ntrtoqvwn6yRX-AO3YjE5jACGuu_OdoSXA&_hsmi=79797779#slide=id.p)
+📖 [Version Control](https://docs.google.com/presentation/d/1aVUttI14G-mYgJub93a0rHB8U4Hp1PVLsP-Z29xfdFQ/edit?_hsenc=p2ANqtz-_AvsIEItthWbFbe2sbmEf0s8eSQuOcn1RpTN1o2-XSJh1oig173BqRmf02Ntrtoqvwn6yRX-AO3YjE5jACGuu_OdoSXA&_hsmi=79797779#slide=id.p)
+###### References
+* [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control
+)
+* [Git Flow vs Trunking](https://www.toptal.com/software/trunk-based-development-git-flow
+)
 
-[Agile Processes](https://docs.google.com/presentation/d/1dV-CxDBi8d5y918E_ntdrguC99fDx2Sela_payxhaKw/edit?_hsenc=p2ANqtz-_AvsIEItthWbFbe2sbmEf0s8eSQuOcn1RpTN1o2-XSJh1oig173BqRmf02Ntrtoqvwn6yRX-AO3YjE5jACGuu_OdoSXA&_hsmi=79797779#slide=id.p)
+📖 [Agile Processes](https://docs.google.com/presentation/d/1dV-CxDBi8d5y918E_ntdrguC99fDx2Sela_payxhaKw/edit?_hsenc=p2ANqtz-_AvsIEItthWbFbe2sbmEf0s8eSQuOcn1RpTN1o2-XSJh1oig173BqRmf02Ntrtoqvwn6yRX-AO3YjE5jACGuu_OdoSXA&_hsmi=79797779#slide=id.p)
+###### References
+* [Rules of XP](http://www.extremeprogramming.org/rules.html)
+* [Scrum](http://www.mountaingoatsoftware.com/agile/scrum)
+* [Squads](https://medium.com/productmanagement101/spotify-squad-framework-part-i-8f74bcfcd761)
+* [Squads Video](https://vimeo.com/85490944)
+
+---
+
 #### Day Four
-[Testing and Test Driven Development](https://docs.google.com/presentation/d/1bpQIyeUSuAg7WzpeMs_Kz-vojxn_-kFqxAHquqeMAwU/edit?_hsenc=p2ANqtz-8K1H-BxXTWaFPD30qSSboyg-MFAgJ_IC-y5Fus88-AARxPm2-adf1jxgYrgQ2-Pf26IPUgUg7rFq2uFopKPfrgX_LOhA&_hsmi=79737034#slide=id.p)
+📖 [Testing and Test Driven Development](https://docs.google.com/presentation/d/1bpQIyeUSuAg7WzpeMs_Kz-vojxn_-kFqxAHquqeMAwU/edit?_hsenc=p2ANqtz-8K1H-BxXTWaFPD30qSSboyg-MFAgJ_IC-y5Fus88-AARxPm2-adf1jxgYrgQ2-Pf26IPUgUg7rFq2uFopKPfrgX_LOhA&_hsmi=79737034#slide=id.p)
+###### References
+* [Martin Fowler on TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+* [Wiki Definition](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Emergent Design](https://en.wikipedia.org/wiki/Emergent_Design#Emergent_design_in_agile_software_development)
 
-[Programming Fundamentals 003](https://docs.google.com/presentation/d/1_nmXHcCOLowP76HgxMFS89iG7jvDmJl549YFPAuKc6s/edit?_hsenc=p2ANqtz-8K1H-BxXTWaFPD30qSSboyg-MFAgJ_IC-y5Fus88-AARxPm2-adf1jxgYrgQ2-Pf26IPUgUg7rFq2uFopKPfrgX_LOhA&_hsmi=79737034#slide=id.p)
+📖 [Programming Fundamentals 003](https://docs.google.com/presentation/d/1_nmXHcCOLowP76HgxMFS89iG7jvDmJl549YFPAuKc6s/edit?_hsenc=p2ANqtz-8K1H-BxXTWaFPD30qSSboyg-MFAgJ_IC-y5Fus88-AARxPm2-adf1jxgYrgQ2-Pf26IPUgUg7rFq2uFopKPfrgX_LOhA&_hsmi=79737034#slide=id.p)
+
+###### References
+* [Javascript Objects](https://www.w3schools.com/js/js_objects.asp)
+* [Javascript Arrays](https://www.w3schools.com/js/js_arrays.asp)
 
 [GitHub Repo for Exercises](https://github.com/techreturners/programming_fundamentals_003?utm_source=hs_email&utm_medium=email&utm_content=79737034&_hsenc=p2ANqtz-8K1H-BxXTWaFPD30qSSboyg-MFAgJ_IC-y5Fus88-AARxPm2-adf1jxgYrgQ2-Pf26IPUgUg7rFq2uFopKPfrgX_LOhA&_hsmi=79737034)
 
+---
+
 #### Day Three
-[Problem Solving](https://docs.google.com/presentation/d/1AsBB0Qb_nlNH9cks8Wv-BXsnD_lp8WMvNchZQJzgyrU/edit?_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113#slide=id.p)
+📖 [Problem Solving](https://docs.google.com/presentation/d/1AsBB0Qb_nlNH9cks8Wv-BXsnD_lp8WMvNchZQJzgyrU/edit?_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113#slide=id.p)
 
-##### References
-* [](https://)
-* [](https://)
-* [](https://)
+###### References
+* [Talk by Dr Sallyann Freudenberg](https://vimeo.com/143244365)
+* [Rubber Duck Debugging](https://rubberduckdebugging.com/)
+* [Pomodoro](https://francescocirillo.com/pages/pomodoro-technique)
 
-[Programming Fundamentals 002](https://docs.google.com/presentation/d/1lsi6fvtp2VqsIR-BP-ARDluL05AtY_pTvsPKEYTf2Zs/edit?_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113#slide=id.p)
+📖 [Programming Fundamentals 002](https://docs.google.com/presentation/d/1lsi6fvtp2VqsIR-BP-ARDluL05AtY_pTvsPKEYTf2Zs/edit?_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113#slide=id.p)
+###### References
+* [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+* [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+* [filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
 [GitHub Repo for Exercises](https://github.com/techreturners/programming_fundamentals_002?utm_source=hs_email&utm_medium=email&utm_content=79693113&_hsenc=p2ANqtz-8gPp2aQ8-cobeUOJYMUUnzYH2H-Wa2oKl6uitMORn_klOrZvroU0Cf5VA6cjnPfEGJfQ3a_bnIfUDOvpAeS3dhZd1tsA&_hsmi=79693113)
 
+---
+
 #### Day Two
-[Pair Programming](https://docs.google.com/presentation/d/1-laccrJcBlI1d6vxQRhzQ0bbjyroCUBMbM9Xfk5RaD4/edit?_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743#slide=id.p)
-##### References
+📖 [Pair Programming](https://docs.google.com/presentation/d/1-laccrJcBlI1d6vxQRhzQ0bbjyroCUBMbM9Xfk5RaD4/edit?_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743#slide=id.p)
+###### References
 * [Atlassian - Try Pair Programming](https://developer.atlassian.com/blog/2015/05/try-pair-programming/)
 * [Pair Programming Styles
 ](https://stackify.com/pair-programming-styles/)
@@ -295,33 +324,34 @@ The homework tasks are also discussed during the end of the lecture video.
 ](https://martinfowler.com/bliki/PairProgrammingMisconceptions.html)
 
 
-[Programming Fundamentals 001](https://docs.google.com/presentation/d/1ygtuEJGpaTYjdOAbgdtvxMUg2EI8PERVc21LCsCfWck/edit?_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743#slide=id.p)
-##### References
+📖 [Programming Fundamentals 001](https://docs.google.com/presentation/d/1ygtuEJGpaTYjdOAbgdtvxMUg2EI8PERVc21LCsCfWck/edit?_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743#slide=id.p)
+###### References
 * [Javascript Reserved Keywords](https://www.w3schools.com/js/js_reserved.asp)
 * [Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
 * [Operators](https://www.w3schools.com/jsref/jsref_operators.asp)
 
 [GitHub Repo for Exercises](https://github.com/techreturners/programming_fundamentals_001?utm_source=hs_email&utm_medium=email&utm_content=79608743&_hsenc=p2ANqtz-8KcHXyuFbnalYXXa0_9uGyuzt1oOrOpAWmVseE741NqpbTMfe8drJAl-3vUjK9MJe6L41BhbroGckr7w-4PQtLuVJbxQ&_hsmi=79608743)
 
+---
 
 #### Day One
-[Intro slides](https://docs.google.com/presentation/d/1a83az4lnRDijeI_ZVilA-18Znb8zDxapZZ6Kmh5gGE8/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
+📖 [Intro slides](https://docs.google.com/presentation/d/1a83az4lnRDijeI_ZVilA-18Znb8zDxapZZ6Kmh5gGE8/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
 
-[Tech Industry](https://docs.google.com/presentation/d/1cbwa6twuJoxXyYwC-gZnkXUipcZbBREgQCxTWnkHvvQ/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
-##### References
+📖 [Tech Industry](https://docs.google.com/presentation/d/1cbwa6twuJoxXyYwC-gZnkXUipcZbBREgQCxTWnkHvvQ/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
+###### References
 * [Tech Nation Report 2019](https://technation.io/report2019/#introduction)
 * [Tech Nation Report - London 2019](https://technation.io/about-us/national-network/london/)
 * [Stackoverflow Insights](https://insights.stackoverflow.com/survey/2019)
 
-[Command line introduction](https://docs.google.com/presentation/d/19eE_N5hnw-6BQv2dJvnZC1xYoG25YbF-DuU_42ThSZ0/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.g4801ef51f5_0_0)
+📖 [Command line introduction](https://docs.google.com/presentation/d/19eE_N5hnw-6BQv2dJvnZC1xYoG25YbF-DuU_42ThSZ0/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.g4801ef51f5_0_0)
 
-##### References
+###### References
 * [Windows Package Manager - Chocolatey](https://chocolatey.org/)
 * [HomeBrew](https://brew.sh/)
 * [Unix command cheat sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 
-[Personal development](https://docs.google.com/presentation/d/1LQEn-T8A-lX3iuRHJs3bsADGlq8Q1onDiBuboRbAlDA/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
-##### References     
+📖 [Personal development](https://docs.google.com/presentation/d/1LQEn-T8A-lX3iuRHJs3bsADGlq8Q1onDiBuboRbAlDA/edit?_hsenc=p2ANqtz-9KYAXXvSmWuRWcmCw3euGXrN41L2YNya7aijAIe0a2QBoQWcOjZe6d2fRkQIE3_ia5wawO7RdFUIwKwiYK7qaBnuP_VA&_hsmi=79589364#slide=id.p)
+###### References
 * [Growth Mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
 
 
