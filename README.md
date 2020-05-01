@@ -224,7 +224,7 @@ This means from now on you'll be committing and pushing code to your new React f
 ## Week 4 Responsive Design
 📖 [Lecture Slides - Where are we up to](https://docs.google.com/presentation/d/1Uw9tAPhB5P54uTGpumWLDT7xo5c9FjyuSkDAZllbL14/edit?_hsenc=p2ANqtz--N0vOKhUQa6UN2Tlj5WOmiIUKsZCYH1y31WAWn3duPk8VNHzS0PI9sS4V3BFveYmnUXnH_-rENciZ50nFk-SfZQBW--w&_hsmi=80713359#slide=id.p)
 
-📖 [Lecture Slides - Responsive Design](https://)
+📖 [Lecture Slides - Responsive Design](https://docs.google.com/presentation/d/1rrHUNzmiuVmURAHtiroTrUYLu56Flq33taKCjA25nKg/edit?usp=sharing)
 
 - [ ] The homework this week is to convert your HTML page to be responsive by utilising Bootstrap Grids.
 
