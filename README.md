@@ -2,7 +2,9 @@
 
 ## Week 13 Project week
 [CV Workshop](https://github.com/Step-Into-Tech/Course-Materials/blob/master/CV%20Workshop.mp4)
+
 [CVHeadingsTemplateBBC](https://github.com/Step-Into-Tech/Course-Materials/blob/master/CVHeadingsTemplateBBC.docx)
+
 Code Reading Exercises
 
 ## Week 12 Recap Support
