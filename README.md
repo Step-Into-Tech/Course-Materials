@@ -1,4 +1,6 @@
 # BBC Step Into Tech
+[Technical Interview Tips Video](https://files.slack.com/files-pri/T7STTH8HG-F0150FBTEJ3/download/tech_interview_guidance.mp4)
+[Technical Interview Tips Slides](https://docs.google.com/presentation/d/1MNB-OEnF7fqwMgX2PBkXr-mtyHrNLaQBB9kmAd6ETPY/edit#slide=id.g7ed22360d0_0_24)
 
 ## Week 13 Project week
 [CV Workshop](https://github.com/Step-Into-Tech/Course-Materials/blob/master/CV%20Workshop.mp4)
